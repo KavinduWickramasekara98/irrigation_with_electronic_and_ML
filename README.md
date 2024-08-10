@@ -35,7 +35,7 @@ This project reads sensor data from a serial port connected to a microcontroller
 1. Clone the repository:
    ```bash
    git clone https://github.com/KavinduWickramasekara98/irrigation_with_electronic_and_ML.git
-   cd sensor-data-collection
+   cd irrigation_with_electronic_and_ML
 2. Install the required Python libraries
    pip install pandas numpy matplotlib scikit-learn pyserial openpyxl
 
